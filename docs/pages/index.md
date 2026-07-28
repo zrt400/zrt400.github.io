@@ -19,7 +19,7 @@ Check out my [projects](/projects/) page for things I have done and things I am 
 
 **Find me:**
 [GitHub](https://github.com/zrt400) ·
-[LinkedIn](https://linkedin.com/in/zach-tungate) .
-[Email](ZTungate@uw.com) .
+[LinkedIn](https://linkedin.com/in/zach-tungate) ·
+[Email](ZTungate@uw.com)
 
 ---
